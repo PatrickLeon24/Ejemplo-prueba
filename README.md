@@ -11,5 +11,5 @@ Luego deberá leer las instrucciones de cada módulo y realizar lo que se le pid
 
 ## Integrantes
 
-- Integrante 1
-- Integrante 2
+- Patrick Leon
+
