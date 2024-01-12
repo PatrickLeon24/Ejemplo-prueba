@@ -11,5 +11,4 @@ Luego deberá leer las instrucciones de cada módulo y realizar lo que se le pid
 
 ## Integrantes
 
-- Patrick Leon
-
+- Hernan Quintana

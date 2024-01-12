@@ -1,0 +1,31 @@
+body{
+
+    background-color: rgb(221, 219, 219);
+}
+.carta{
+    background-color: white;
+    margin: 500px;
+    padding: 8px;
+}
+.header{
+    background-color: skyblue;
+    margin: 8px;
+    padding: 8px ;
+
+}
+.bodi{
+    background-color: skyblue;
+    margin: 8px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.footer{
+    background-color: skyblue;
+    margin: 8px; 
+    padding:  8px ;
+}
+button{
+    
+}

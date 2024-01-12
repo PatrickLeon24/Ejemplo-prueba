@@ -1,0 +1,22 @@
+.div1{
+    background-color: rgb(255, 167, 158);
+    padding: 32px;
+    border: solid blue;
+    
+    margin: 12px;
+}
+.div2{
+    background-color: skyblue;
+    
+    border: solid purple;
+    margin-bottom: 48px ;
+}
+.div3{
+    background-color: rgb(255,209,169);
+    padding: 32px;
+    border: solid rgb(172, 10, 10);
+    margin-left: 1000px;
+}
+body{
+    margin: 150px;
+}
