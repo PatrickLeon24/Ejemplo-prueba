@@ -1,0 +1,18 @@
+#top{
+    background-color: orange;
+
+}
+.borde-negro img{
+    width: 100px;
+}
+.fondo-rojo img{
+    width: 300px;
+}
+
+.borde-negro{
+    border: solid black;
+    border-width: 10px;
+    padding: 10px; 
+}
+
+

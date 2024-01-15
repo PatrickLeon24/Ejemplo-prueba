@@ -1,0 +1,50 @@
+.container{
+    
+    background-color: #EFE1C6;
+    font-family:  Arial;
+}
+.main{
+    width: 700px;
+    background-color: white;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: solid #66401A;
+    border-width: 10px;
+}
+h1{
+    color:#66401A ;
+    
+    font-family: Georgia;
+    font-weight: bold;
+}
+h2{
+    color:#66401A ;
+    font-family: Georgia;
+    font-weight: bold;
+}
+.span1{
+    font-size: 150%;
+    text-decoration: underline;
+}
+.proyectos1{
+    background-color:#EFE1C6;
+    width: 200px;
+    padding: 10px;
+    border: solid #66401A;
+    border-width: 1px;
+    margin-bottom: 180px;
+}
+.Cronograma1 span{
+    font-weight: bold;
+
+}
+.Cronograma1 input{
+    background-color: #EFE1C6;
+}
+table{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
